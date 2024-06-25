@@ -1,0 +1,17 @@
+Property,Vacancy ID,Zone,Eircode,Sales Agent,Quantity,Type Room,Genre,Price
+Apt. 5 - 49 Arbour Hill,ARB49AP5B11,D07,D07 FX47,Rafael Resta,1,Triple,Female,605
+Apt. 5 - 49 Arbour Hill,ARB49AP5B21,D07,D07 FX48,Bernabe Isla,1,Triple,Undefined,605
+Apt. 140 - Castleforbes Square,CAS140B22,D01,D01 V273,Michel Costa,1,Twin,Female,675
+Apt. 65 - Main Street Belmayne,MA65B13,D13,D13 T2Y6,Bernabe Isla,1,Triple Ensuite,Female,550
+"Apt. 04 - Saint Patrick's Villas, Dublin 04",STP4B23,D04,D04 Y9T3,Bernabe Isla,1,Triple,Female,625
+Apt. 47 - St Mochta's Green,,D15,D15 X702,Bernabe Isla,1,Twin,Male,575
+Apt. 47 - St Mochta's Green,,D15,D15 X702,Bernabe Isla,1,Triple Ensuite,Male,550
+Apt. 110 - The Cedars,CED110B21,D09,D09 AH70,Michel Costa,3,Triple,Male,600
+Apt. 110 - The Cedars,CED110B22,,,Michel Costa,null,,,null
+Apt. 110 - The Cedars,CED110B23,,,Michel Costa,null,,,null
+Apt. 34 - The Wellington,WEL34B21,D08,D08 KP62,Michel Costa,1,Twin,Male,650
+Apt. 18 - The Capstan Building,CB18B21,D15,D15 VCK1,Michel Costa,2,Double,Couple,1250
+Apt. 18 - The Capstan Building,CB18B22,,,Michel Costa,null,,,null
+House 68 - Naas Road,NR68B41,D12,D12 AH61,Bernabe Isla,1,Triple,Male,640
+House 8 - Woodlawn Drive,WOO8B31,D17,D17 K281,Michel Costa,2,Double,Couple,1100
+House 8 - Woodlawn Drive,WOO8B32,D17,D17 K281,Michel Costa,null,,,null
